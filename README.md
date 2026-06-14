@@ -1,2 +1,28 @@
-# af0dfdbe45c1f66a-dental-referral-program-and-tr
-Professional referral program and tracking system built for dental operations and growth.
+# Dental Referral Program and Tracking System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM7sLh1B3o8bRS7jCcZe35)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM7sLh1B3o8bRS7jCcZe35)
+
